@@ -8,5 +8,4 @@ A tabular list of projects will be added soon. For now, here's what I have:
 
 - **Predicting whether a hotel booking will be cancelled or not** ([source](https://www.datacamp.com/workspace/datasets/dataset-python-hotel-booking-demand))
 
-- **Predicting whether a credit card application would be approved or not** ([source]
-(https://app.datacamp.com/learn/projects/558))
+- **Predicting whether a credit card application would be approved or not** ([source](https://app.datacamp.com/learn/projects/558))
