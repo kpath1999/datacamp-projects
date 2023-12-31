@@ -2,8 +2,6 @@
 
 This repository is a collection of mini-data science projects that I've been working on. I plan to incorporate components of these mini-projects into a larger project in the near future.
 
-A tabular list of projects will be added soon.
-
 **Beginner Projects:**
 
 - Classifying songs as either rock or hip-hop ([source](https://app.datacamp.com/learn/projects/449))
