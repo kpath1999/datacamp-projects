@@ -11,3 +11,5 @@ This repository is a collection of mini-data science projects that I've been wor
 - Predicting whether a credit card application would be approved or not ([source](https://app.datacamp.com/learn/projects/558))
 
 - Predicting whether a loan application would be approved or not ([source](https://www.datacamp.com/workspace/datasets/dataset-python-loans))
+
+- Using time series analysis on store sales data ([source](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/code?competitionId=29781&sortBy=voteCount&language=Python))
