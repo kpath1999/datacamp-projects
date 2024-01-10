@@ -1,10 +1,10 @@
 # Data Science Projects Repository
 
-This repository is a collection of mini-data science projects that I've been working on. I plan to incorporate components of these mini-projects into a larger project in the near future.
+This repository is a collection of mini-data science projects that I've been working on. I plan to incorporate components of these mini-projects into a larger project soon.
 
 In-depth descriptions are being included within each of the repositories.
 
-**Beginner Projects:**
+**List of Projects:**
 
 - Classifying songs as either rock or hip-hop ([repo](https://github.com/kpath1999/datacamp-projects/tree/main/01-classification-song-genre) + [source](https://app.datacamp.com/learn/projects/449))
 
