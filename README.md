@@ -1,30 +1,34 @@
 # Data Science Projects Repository
 
-This repository is a collection of mini-data science projects that I've been working on. I plan to incorporate components of these mini-projects into a larger project in the near future.
+The projects included within the repository have been meticulously curated by [Datacamp](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels). I've been using their notebooks as a guide, covering applications from predictive analytics using Random Forests to developing AI-powered chatbots with Transformers -- connecting theoretical knowledge to real-world scenarios.
 
-In-depth descriptions are being included within each of the repositories.
+In-depth descriptions have been included within each of the notebooks.
 
 ## List of Projects
 
 * **`01-classification-song-genre`** --> classifying songs as either rock or hip-hop 
-    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/01-classification-song-genre) to my repository,
+    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/01-classification-song-genre/song-genre-notebook.ipynb) to my notebook,
     * [Credit](https://app.datacamp.com/learn/projects/449) to the original creators
 
 * **`02-hotel-booking-demand`** --> predicting whether a hotel booking will be cancelled or not 
-    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/02-hotel-booking-demand) to my repository,
+    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/02-hotel-booking-demand/hotel-notebook.ipynb) to my notebook,
     * [Credit](https://www.datacamp.com/workspace/datasets/dataset-python-hotel-booking-demand) to the original creators
 
 * **`03-credit-card-approval`** --> predicting whether a credit card application would be approved or not
-    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/03-credit-card-approval) to my repository,
+    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/03-credit-card-approval/credit-card-notebook.ipynb) to my notebook,
     * [Credit](https://app.datacamp.com/learn/projects/558) to the original creators
 
 * **`04-loan-approval-predictor`** --> predicting whether a loan application would be approved or not
-    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/04-loan-approval-predictor) to my repository,
+    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/04-loan-approval-predictor/loan-notebook.ipynb) to my notebook,
     * [Credit](https://www.datacamp.com/workspace/datasets/dataset-python-loans) to the original creators
 
 * **`05-grocery-time-series`** --> using time series analysis on store sales data
-    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/05-grocery-time-series) to my repository,
+    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/05-grocery-time-series/store-sales.ipynb) to my notebook,
     * [Credit](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/code?competitionId=29781&sortBy=voteCount&language=Python) to the original creators
+
+* **`06-blood-donation`** --> predicting whether a donor will give blood during a given time window
+    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/06-blood-donation/give-life.ipynb) to my notebook,
+    * [Credit](https://app.datacamp.com/learn/projects/646) to the original creators
 
 ## Inspiration
 
