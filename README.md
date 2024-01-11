@@ -34,8 +34,8 @@ With a mental skill like computer programming, it remains the case that I would 
 
 ![Craftsman's mindset](craftsman-mindset.png)
 
-Above is table describing the difference a passion mindset and craftsman's mindset. My intention is to develop the latter. The goal with this repository is to build skills. This can only be done by engaging in the hard, tedious task of programming and running into all sorts of unforeseen errors.
+Above is a table describing the difference between a passion mindset and a craftsman mindset ([source](https://medium.com/@preetipooja/building-a-craftsman-mindset-vs-a-passion-mindset-4833133c718c)). I intend to develop the latter. The goal of this repository is to build skills. This can only be done by engaging in the hard, tedious task of programming and running into all sorts of unforeseen errors.
 
 I will dial up the difficulty as I work on more projects. This would include more data processing, longer timelines, and managing MLOps infrastructure. The skills will build up over time.
 
-> _Gradatim Ferociter_: 'Step by Step, Ferociously.
+> _Gradatim Ferociter_: Step by Step, Ferociously.
