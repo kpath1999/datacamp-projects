@@ -26,8 +26,8 @@ In-depth descriptions have been included within each of the notebooks.
     * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/05-grocery-time-series/store-sales.ipynb) to my notebook,
     * [Credit](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/code?competitionId=29781&sortBy=voteCount&language=Python) to the original creators
 
-* **`06-blood-donation`** --> predicting whether a donor will give blood during a given time window
-    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/06-blood-donation/give-life.ipynb) to my notebook,
+* **`06-blood-donor-prediction`** --> predicting whether a donor will give blood during a given time window
+    * [Link](https://github.com/kpath1999/datacamp-projects/tree/main/06-blood-donor-prediction/give-life.ipynb) to my notebook,
     * [Credit](https://app.datacamp.com/learn/projects/646) to the original creators
 
 ## Inspiration
